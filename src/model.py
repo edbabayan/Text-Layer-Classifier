@@ -274,7 +274,7 @@ class TextValidator:
 
 
 if __name__ == '__main__':
-    pdf_path = "/home/eduard/Downloads/Cascade Application and Disclosures - Eli Brown.pdf"
+    pdf_path = ""
 
     conf_results = []
 
